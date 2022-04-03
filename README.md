@@ -54,7 +54,7 @@ l.predict([[150.3,240.5,234.5]])
 
 
 ## Output:
-![output]()
+![output](https://github.com/charansai0/Implementation-of-Multivariate-Linear-Regression-Model-for-Sales-Prediction/blob/main/output.png?raw=true)
 
 
 ## Result:
